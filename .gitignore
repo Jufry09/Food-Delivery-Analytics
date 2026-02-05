@@ -2,3 +2,9 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .DS_Store
+
+# Tableau temporary files
+.~*.twbr
+
+# Processed data
+notebooks/food_delivery_clean.csv
